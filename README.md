@@ -4,7 +4,7 @@ This project demonstrates how to build an Arduino-based gesture-controlled car u
 
 
 
-![Image](https://github.com/user-attachments/assets/b38d2305-1957-43cc-92c8-3e87431d5a41)
+![Image](https://github.com/user-attachments/assets/618ea5de-96cd-47a9-81e8-e2e332845a8c)
 
 ![Tranmitter](https://github.com/shettymahindra-l/Hand_Gesture_Vaccum_Cleaner/blob/3cea71a4cff7c0e1b37e14e832447f6b2c46206b/Hand%20gesture%20transmitter.jpeg)
 
