@@ -3,6 +3,8 @@
 This project demonstrates how to build an Arduino-based gesture-controlled car using the **HC-05 Bluetooth module** and **MPU-6050 sensor**. The car is controlled wirelessly by hand gestures without requiring a smartphone app. The MPU-6050 sensor detects motion and orientation from the hand, and the data is transmitted via Bluetooth to the car, allowing it to move forward, backward, left, or right.
 
 
+![Tranmitter](images/demo.gif)
+
 ![Image](https://github.com/user-attachments/assets/b38d2305-1957-43cc-92c8-3e87431d5a41)
 
 
