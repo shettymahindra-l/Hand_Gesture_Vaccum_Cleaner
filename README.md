@@ -48,7 +48,6 @@ The system is composed of two units:
 - HC-05 connected to Arduino’s RX/TX pins
 - Power supply connected to Arduino and motors
 
-*For detailed wiring diagrams, refer to your setup or the project reference.*
 
 ## 📋 Working Principle
 
@@ -65,5 +64,3 @@ The system is composed of two units:
 4. Power both units.
 5. Perform gestures with your hand to control the car’s movement in real-time.
 
-
-- [How to Build an Arduino Gesture Controlled Car – RobotLK](https://robotlk.com/how-to-build-arduino-gesture-controlled-car-hc-05/)
